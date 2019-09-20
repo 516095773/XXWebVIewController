@@ -1,0 +1,16 @@
+PODS:
+  - XXWebViewController (0.1.0)
+
+DEPENDENCIES:
+  - XXWebViewController (from `../`)
+
+EXTERNAL SOURCES:
+  XXWebViewController:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  XXWebViewController: 1fa71a6530a07017d09d4708f583651f92a492d9
+
+PODFILE CHECKSUM: dc4ff75a0db244380085f0d911c4d3b8f5e06a01
+
+COCOAPODS: 1.8.0.beta.2
